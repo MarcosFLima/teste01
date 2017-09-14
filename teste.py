@@ -1,4 +1,3 @@
-Hi Teste
+def teste(self):
+    return print("Aloo Aloo Alooo Gitee Gitee")
 
-
-Make a teste by teste!
